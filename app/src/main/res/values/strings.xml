@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">primerparcialTerminado</string>
+ <string name="Titulo_1">Titulo 1</string>
+    <string name="Titulo_2">Titulo 2</string>
+    <string name="Titulo_3">Titulo 3</string>
+    <string name="Descripcion_1">Descripcion 1</string>
+    <string name="Descripcion_2">Descripcion 2</string>
+    <string name="Descripcion_3">Descripcion 3</string>
 </resources>
+
